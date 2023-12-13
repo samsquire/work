@@ -10,6 +10,8 @@ This is a repository of work that I think needs to be done
 | Standard cycle package manager        |                                                              |
 | Latch assembly                        | Write the assembly to implement latch based control flow, which is similar to algebraic effects. See [samsquire/ideas5 453. Latch as a keyword...](https://github.com/samsquire/ideas5#453-latch-as-a-keyword-variables-are-latches-and-interlocking-parallel-processes) |
 | Schema mutation                       |                                                              |
-| Database upgrades                     |                                                              |
+| Seamless database upgrades            |                                                              |
 | QUIC server with multithreaded actors |                                                              |
+| AI scenegraphs                        | describe a scenegraph with a prompt                          |
+|                                       |                                                              |
 
