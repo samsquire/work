@@ -3,7 +3,7 @@ This is a repository of work that I think needs to be done
 
 | Codename                                       | Description                                                  |
 | ---------------------------------------------- | ------------------------------------------------------------ |
-| Minimum Viable Compile                         | Documentation of opcodes and its assembly for the generation of machine code that many programming language structures require, such as structs. If statements, loops. |
+| Minimum Viable Compile                         | Documentation of opcodes and its assembly for the generation of machine code that many programming language structures require, such as structs. If statements, loops.<br /> |
 | Blog with live AST viewer                      |                                                              |
 | Opcode database                                | Opcodes presented in a simple format.                        |
 | Elegant representation                         |                                                              |
@@ -16,4 +16,7 @@ This is a repository of work that I think needs to be done
 | Autofit                                        | Optaplanner                                                  |
 | Type system package manager                    |                                                              |
 | Saturation of disk, memory and network and CPU |                                                              |
+| Binary ORM                                     | Binary object structure for fast serialization and deserialization. |
+| Page database server                           |                                                              |
+| Stable diffusion for information interfaces    | Present this information efficiently.                        |
 
