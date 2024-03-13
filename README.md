@@ -19,4 +19,5 @@ This is a repository of work that I think needs to be done
 | Binary ORM                                     | Binary object structure for fast serialization and deserialization. |
 | Page database server                           |                                                              |
 | Stable diffusion for information interfaces    | Present this information efficiently.                        |
+| Rama datapipelines                             | For performance and behaviour.                               |
 
